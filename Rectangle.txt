@@ -1,0 +1,4 @@
+void main()
+{
+Rectangle r = new Rectangle();
+}
